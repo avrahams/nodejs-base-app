@@ -1,0 +1,10 @@
+applications:
+- services:
+  - dashDB
+  - iottool-IoT-devx
+  disk_quota: 1024M
+  name: washerApp
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 256M
