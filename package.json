@@ -10,21 +10,13 @@
         "cfenv": "",
         "body-parser": "",
         "cookie-parser": "",
-        "morgan": "",
         "serve-favicon": "",
         "ejs": "",
         "cors": "",
         "underscore": "",
-        "ws": "",
-        "ibmiotf": "",
-        "fs-extra": "",
-        "camelize": "",
         "app-module-path": "",
-        "basic-auth": "",
         "helmet": "",
-        "bluebird": "",
-        "ibm_db": "",
-        "json2csv" :""
+        "bluebird": ""
     },
     "repository": {}
 }
