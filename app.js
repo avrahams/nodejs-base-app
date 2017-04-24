@@ -1,6 +1,11 @@
 require('app-module-path').addPath(__dirname);
+if(!process.env.HOME || !process.env.USERPROFILE ) {
+	process.env.HOME = process.env.USERPROFILE = process.env.TEMP;
+}
+
 var express = require('express');
 var http = require('http');
+var logger = require('morgan')
 var path = require('path');
 var favicon = require('serve-favicon');
 var cookieParser = require('cookie-parser');

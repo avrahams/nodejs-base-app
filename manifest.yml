@@ -1,5 +1,9 @@
+---
+buildpack: https://github.com/cloudfoundry/nodejs-buildpack
 applications:
-  disk_quota: 1024M
+- disk_quota: 1024M
   path: .
+  domain: mybluemix.net
   instances: 1
+  name: nodejsapp
   memory: 256M
