@@ -1,0 +1,1 @@
+exports.indexRouter = require('./homeRouter.js');
