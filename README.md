@@ -29,5 +29,4 @@ File structure (selected files and folders)
 	
 	
 	
-	
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/avrahams/nodejs-base-app.git # [required])
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/avrahams/nodejs-base-app.git)
