@@ -27,3 +27,7 @@ File structure (selected files and folders)
 
 * workbenchLib: Library elements generated from IoT-Workbench. 
 	
+	
+	
+	
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/avrahams/nodejs-base-app.git # [required])
